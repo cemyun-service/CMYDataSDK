@@ -1,0 +1,6 @@
+framework module CMYDataAPI {
+  umbrella header "CMYDataAPI.h"
+
+  export *
+  module * { export * }
+}
